@@ -1,0 +1,15 @@
+Passenger_Count,Temperature,Time,Weekend,Electricity_Units
+300,30,Morning,0,800
+500,32,Afternoon,0,1200
+700,35,Evening,1,1700
+400,28,Night,0,900
+1000,38,Evening,1,2200
+600,34,Afternoon,0,1400
+800,36,Evening,1,1900
+350,29,Morning,0,850
+450,31,Night,0,950
+900,37,Evening,1,2100
+
+
+
+

@@ -1,0 +1,15 @@
+HIGH:
+Reduce lighting in unused platforms.
+Turn off extra fans and ACs.
+Use energy-saving mode.
+Use solar backup if available.
+
+MEDIUM:
+Monitor AC and fan usage.
+Reduce unnecessary lighting.
+Encourage energy-efficient operations.
+
+LOW:
+Electricity usage is normal.
+Continue using energy-efficient practices.
+Promote awareness about energy conservation.
